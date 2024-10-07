@@ -113,9 +113,6 @@ The IMDb dataset consists of 50,000 rows of data containing two main columns, na
 **Note:**  
 A complete version of the EDA & Pre-Processing with explanations for each code can be accessed in the **[ml_pipeline](https://github.com/windi-wulandari/sentiment-analysis-IMDB/tree/main/ml_pipeline)** notebook.
 
----
-
-Here’s the translation of your text into English:
 
 ---
 
