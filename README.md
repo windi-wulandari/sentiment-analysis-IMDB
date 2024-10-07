@@ -1,4 +1,6 @@
-<img src="https://drive.google.com/uc?id=1g4t3dYxccZsuzx0xXx6saaRWvGCXGi6G" alt="My Image" width="1000" height="250">
+<div style="text-align: center;">
+    <img src="https://drive.google.com/uc?id=1g4t3dYxccZsuzx0xXx6saaRWvGCXGi6G" alt="My Image" width="900" height="200">
+</div>
 
 
 ---
