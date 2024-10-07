@@ -1,0 +1,11 @@
+# Dataset
+https://drive.google.com/drive/folders/1WX1tiE0jHGi5-lWe1GYn7tjHAMlLKMyc?usp=sharing
+
+# Project Proposal
+https://drive.google.com/drive/folders/1yCuCNeg-R0YPHWZ8fDguC_xmBxaYE93b?usp=sharing
+
+ML_Pipeline
+https://drive.google.com/drive/folders/1yMBol6B18TY0ZVZu0lR447WqQJk_TBaq?usp=sharing
+
+# BOW VS TF-IDF
+https://drive.google.com/drive/folders/1lw-YYufW9dPrnuEKNLIfo74taN8LqTrI?usp=sharing
