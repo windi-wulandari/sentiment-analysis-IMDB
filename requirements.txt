@@ -1,0 +1,20 @@
+# Install libraries that are not pre-installed in Google Colab
+!pip install spacy
+!pip install beautifulsoup4
+!pip install wordcloud
+!pip install textblob
+
+
+
+# Versions used in this project:
+# NumPy version: 1.26.4
+# Pandas version: 2.2.2
+# Seaborn version: 0.13.1
+# Matplotlib version: 3.7.1
+# NLTK version: 3.8.1
+# Scikit-learn version: 1.5.2
+# Spacy version: 3.7.5
+# BeautifulSoup version: 4.12.3
+# WordCloud version: 1.9.3
+# TextBlob version: 0.17.1
+
