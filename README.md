@@ -39,7 +39,7 @@ A more complete version of the background can be accessed in the **[project_prop
 
 ---
 
-# **Objectives**
+# **Goal**
 
 **Sentiment Analysis: Optimizing Time Savings and Cost Efficiency in the Film Industry**
 
