@@ -5,16 +5,14 @@
 !pip install textblob
 
 
-
-# Versions used in this project:
-# NumPy version: 1.26.4
-# Pandas version: 2.2.2
-# Seaborn version: 0.13.1
-# Matplotlib version: 3.7.1
-# NLTK version: 3.8.1
-# Scikit-learn version: 1.5.2
-# Spacy version: 3.7.5
-# BeautifulSoup version: 4.12.3
-# WordCloud version: 1.9.3
-# TextBlob version: 0.17.1
+numpy==1.26.4
+pandas==2.2.2
+seaborn==0.13.1
+matplotlib==3.7.1
+nltk==3.8.1
+scikit-learn==1.5.2
+spacy==3.7.5
+beautifulsoup4==4.12.3
+wordcloud==1.9.3
+textblob==0.17.1
 
