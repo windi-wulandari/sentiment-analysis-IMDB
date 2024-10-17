@@ -5,7 +5,7 @@
 
 ---
 
-# **Directory Overview**
+# **Repository Overview**
 
 1. **[dataset](https://github.com/windi-wulandari/sentiment-analysis-IMDB/tree/main/dataset)**  
    This directory contains the dataset used in the project, formatted as a CSV file for sentiment analysis.
